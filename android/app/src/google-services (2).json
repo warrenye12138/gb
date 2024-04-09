@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "515928597346",
+    "project_id": "gbgb-bd70d",
+    "storage_bucket": "gbgb-bd70d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515928597346:android:1cb8e931fb618470f0823b",
+        "android_client_info": {
+          "package_name": "com.example.gb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXUVps1_8W2pz3t_bpGujutO52jTMOAps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
