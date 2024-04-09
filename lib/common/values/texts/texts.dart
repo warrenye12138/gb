@@ -23,5 +23,5 @@ class DefaultText {
   static const String topicImages = 'User/images/topicImages';
   static const String avatarImages = 'User/images/avatarImages';
   static const String gameIcon = 'User/images/gameIcons/';
-  static const String avatar = 'User/images/avatar/';
+  static const String avatar = 'User/images/avatar/';  
 }
